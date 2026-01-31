@@ -8,7 +8,7 @@ This system detects plant health conditions by analyzing color, texture, and str
 
 ## 📸 Project Output
 
-https://github.com/Batool-Jaber/plant_care_system-in-python/Intro Video.mp4
+[Watch the video](https://youtu.be/dDjNUui9e7k)
 
 ---
 
